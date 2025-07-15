@@ -61,10 +61,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giridhar-Gedela&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 > 🔄 *Actively learning, building, and improving every day. Thanks for visiting my profile!*
