@@ -67,11 +67,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Giridhar-Gedela&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giridhar-Gedela&theme=dracula&no-frame=true&margin-w=5&column=7" alt="GitHub Trophies" />
-</p>
----
-
 > 🔄 *Actively learning, building, and improving every day. Thanks for visiting my profile!*
